@@ -9,6 +9,7 @@ Cases:
 - Is `SAO` equal to `Sword Art Online`?
   - `true`
   
-## Progress
+## Stages
 
-_Preparing..._
+- Preparing (current)
+- Anime names
